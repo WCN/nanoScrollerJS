@@ -41,9 +41,9 @@
   ],
   "license": "MIT",
   "main": "bin/javascripts/jquery.nanoscroller.js",
-  "style": "bin/css/nanoscroller.css",
+  "style": "bin/css/nanoscroller.scss",
   "files": [
-    "bin/css/nanoscroller.css",
+    "bin/css/nanoscroller.scss",
     "bin/javascripts/jquery.nanoscroller.js"
   ],
   "repository": {
